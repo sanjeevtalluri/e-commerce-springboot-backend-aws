@@ -20,8 +20,8 @@ public class OrderDetailService {
 
     private static final String ORDER_PLACED = "Placed";
 
-    private static final String KEY = "rzp_test_AXBzvN2fkD4ESK";
-    private static final String KEY_SECRET = "bsZmiVD7p1GMo6hAWiy4SHSH";
+    private static final String KEY = "r";
+    private static final String KEY_SECRET = "b";
     private static final String CURRENCY = "INR";
 
     @Autowired
